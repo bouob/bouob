@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://0x1.now/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url) <sub><sup>$date</sup></sub>\n"
+          template: "- [$title]($url) <sub><sup>$date</sup></sub>$newline"

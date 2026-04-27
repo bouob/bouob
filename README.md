@@ -81,7 +81,12 @@
 
 ## Latest Blog Posts <sub>(auto-synced from 0x1.now)</sub>
 
-<!-- BLOG-POST-LIST:START -->- [把部落格改造成 AI Agent 友善：Content Profile 100% 達成](https://0x1.now/tech/cloudflare-is-agent-ready/) <sub><sup>Thu Apr 23 2026 12:00 AM</sup></sub>- [Harness Engineering 的設計思路](https://0x1.now/tech/harness-engineering/) <sub><sup>Fri Apr 17 2026 12:00 AM</sup></sub>- [EmDash：WordPress 跟不上的那些東西，有人正在重新蓋](https://0x1.now/tech/emdash-cloudflare-astro-cms-first-look/) <sub><sup>Fri Apr 03 2026 12:00 AM</sup></sub>- [Claude Code Skill Eval 的隱藏陷阱：你的測試環境可能不乾淨](https://0x1.now/tech/claude-code-skill-eval-isolation/) <sub><sup>Fri Mar 27 2026 12:00 AM</sup></sub>- [claude-statusline：讓 Claude Code 的狀態列變得真正有用](https://0x1.now/tech/claude-statusline-plugin/) <sub><sup>Fri Mar 20 2026 12:00 AM</sup></sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [把部落格改造成 AI Agent 友善：Content Profile 100% 達成](https://0x1.now/tech/cloudflare-is-agent-ready/) <sub><sup>Thu Apr 23 2026 12:00 AM</sup></sub>
+- [Harness Engineering 的設計思路](https://0x1.now/tech/harness-engineering/) <sub><sup>Fri Apr 17 2026 12:00 AM</sup></sub>
+- [EmDash：WordPress 跟不上的那些東西，有人正在重新蓋](https://0x1.now/tech/emdash-cloudflare-astro-cms-first-look/) <sub><sup>Fri Apr 03 2026 12:00 AM</sup></sub>
+- [Claude Code Skill Eval 的隱藏陷阱：你的測試環境可能不乾淨](https://0x1.now/tech/claude-code-skill-eval-isolation/) <sub><sup>Fri Mar 27 2026 12:00 AM</sup></sub>
+- [claude-statusline：讓 Claude Code 的狀態列變得真正有用](https://0x1.now/tech/claude-statusline-plugin/) <sub><sup>Fri Mar 20 2026 12:00 AM</sup></sub>
+<!-- BLOG-POST-LIST:END -->
 
 More at **[0x1.now](https://0x1.now)**
 

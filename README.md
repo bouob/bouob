@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://0x1.now">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=FF6B1A&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Victor+%E2%9A%A1;AI+trainer+%26+indie+hacker;Astro+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Supabase;Building+at+0x1.now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=TASA+Explorer&weight=600&size=26&duration=2800&pause=900&color=FF6B1A&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Victor+%E2%9A%A1;AI+trainer+%26+indie+hacker;Astro+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Supabase;Building+at+0x1.now" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,7 +15,6 @@
 - **Currently focused on** — Fintech signals, social automation, indie blogging
 - **Daily stack** — Astro · React 19 · Supabase · Python · Cloudflare
 - **Working on** — EOD swing-trading scanner & multi-platform social publishing
-- **Philosophy** — Data structures first. Three questions before every change. No shortcuts on reasoning.
 
 ---
 
@@ -82,11 +81,7 @@
 ## Latest Blog Posts <sub>(auto-synced from 0x1.now)</sub>
 
 <!-- BLOG-POST-LIST:START -->
-- [把部落格改造成 AI Agent 友善：Content Profile 100% 達成](https://0x1.now/tech/cloudflare-is-agent-ready/) <sub><sup>Thu Apr 23 2026 12:00 AM</sup></sub>
-- [Harness Engineering 的設計思路](https://0x1.now/tech/harness-engineering/) <sub><sup>Fri Apr 17 2026 12:00 AM</sup></sub>
-- [EmDash：WordPress 跟不上的那些東西，有人正在重新蓋](https://0x1.now/tech/emdash-cloudflare-astro-cms-first-look/) <sub><sup>Fri Apr 03 2026 12:00 AM</sup></sub>
-- [Claude Code Skill Eval 的隱藏陷阱：你的測試環境可能不乾淨](https://0x1.now/tech/claude-code-skill-eval-isolation/) <sub><sup>Fri Mar 27 2026 12:00 AM</sup></sub>
-- [claude-statusline：讓 Claude Code 的狀態列變得真正有用](https://0x1.now/tech/claude-statusline-plugin/) <sub><sup>Fri Mar 20 2026 12:00 AM</sup></sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 More at **[0x1.now](https://0x1.now)**
 

@@ -12,9 +12,9 @@
 
 - **Role** — AI trainer & indie hacker
 - **Blog** — [0x1.now](https://0x1.now)
-- **Currently focused on** — Fintech signals, social automation, indie blogging
-- **Daily stack** — Astro · React 19 · Supabase · Python · Cloudflare
-- **Working on** — EOD swing-trading scanner & multi-platform social publishing
+- **Currently focused on** — Claude Code harness engineering, fintech signals, social automation
+- **Daily stack** — Astro 7 · React 19 · Supabase · Python · Cloudflare Workers
+- **Working on** — EOD swing-trading scanner, multi-platform social publishing & Claude Code plugins
 
 ---
 
@@ -23,29 +23,46 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Fintech Signals</h3>
-      <p>End-of-day swing scanner — SMC + Squeeze with bilingual AI summaries.</p>
-      <code>Astro 5.x · Python · Supabase</code>
+      <h3><a href="https://github.com/bouob/tickets_hunter">Tickets Hunter</a></h3>
+      <p>Automated ticket-purchasing bot (獵票機器人), formerly tixcraft_bot.</p>
+      <img src="https://img.shields.io/github/stars/bouob/tickets_hunter?style=flat-square&logo=github&labelColor=0a0a0a&color=FF6B1A" />
+      <img src="https://img.shields.io/github/v/release/bouob/tickets_hunter?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /><br/>
+      <code>Python · nodriver · ddddocr</code>
     </td>
     <td width="50%" valign="top">
-      <h3>PostFlow</h3>
-      <p>Multi-platform social publishing — Threads / X / Discord.</p>
-      <code>React 19 · Vite · Supabase Edge</code>
+      <h3>Fintech Signals</h3>
+      <p>End-of-day swing scanner — SMC + Squeeze with bilingual AI summaries.</p>
+      <code>Astro 7 · React 19 · Python · Supabase · CF Workers</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>0x1.now Blog</h3>
-      <p>Personal tech blog — Astro 6.x on Cloudflare Pages.</p>
-      <code>Astro 6 · MDX · Cloudflare</code>
+      <h3>PostFlow</h3>
+      <p>Multi-platform social publishing — Threads / Instagram / Bluesky / Mastodon.</p>
+      <code>React 19 · Vite · Supabase Edge</code>
     </td>
     <td width="50%" valign="top">
-      <h3>Claude Coding Skills</h3>
-      <p>Public Claude Code plugin — synced from monorepo.</p>
-      <code>Markdown · Hooks · MCP</code>
+      <h3><a href="https://0x1.now">0x1.now Blog</a></h3>
+      <p>Personal tech blog — agent-ready (Markdown for Agents) on Cloudflare Workers.</p>
+      <code>Astro 7 · MDX · CF Workers Static Assets</code>
     </td>
   </tr>
 </table>
+
+---
+
+## Claude Code Plugins
+
+Install via the marketplace: `/plugin marketplace add bouob/claude-plugins`
+
+| Plugin | What it does | Version |
+|--------|--------------|---------|
+| [agent-harness](https://github.com/bouob/agent-harness) | Planner → Generator → Evaluator multi-agent sprints & model routing | <img src="https://img.shields.io/github/v/release/bouob/agent-harness?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
+| [claude-statusline](https://github.com/bouob/claude-statusline) | Zero-dependency statusline — rainbow bar, 10 themes, rate-limit monitor | <img src="https://img.shields.io/github/v/release/bouob/claude-statusline?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
+| [coding-skills](https://github.com/bouob/coding-skills) | TDD, SOLID and structured multi-agent code review for TS / React / Python | <img src="https://img.shields.io/github/v/release/bouob/coding-skills?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
+| [gbrain-notion-sync](https://github.com/bouob/gbrain-notion-sync) | Sync a Notion second brain with a local gbrain knowledge graph | <img src="https://img.shields.io/github/v/release/bouob/gbrain-notion-sync?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
+| [repo-vet](https://github.com/bouob/repo-vet) | Static security vetting of third-party repos before you install them | <img src="https://img.shields.io/github/v/release/bouob/repo-vet?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
+| [sysadmin-skills](https://github.com/bouob/sysadmin-skills) | ITIL 4 IT-ops skills — incident response, change management, status comms | <img src="https://img.shields.io/github/v/release/bouob/sysadmin-skills?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
 
 ---
 
@@ -57,8 +74,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-Claude%20Code-FF6B1A?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/AI-Anthropic%20Claude%204.7-FF6B1A?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Hosted%20on-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/AI-Anthropic%20Claude-FF6B1A?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Hosted%20on-Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0a0a0a" />
 </p>
 
 ---
@@ -66,11 +83,6 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bouob&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=ff6b1a&icon_color=ff6b1a&text_color=ffffff&ring_color=ff6b1a" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouob&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff6b1a&text_color=ffffff&langs_count=8" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=bouob&hide_border=true&background=0a0a0a&stroke=ff6b1a&ring=ff6b1a&fire=ff6b1a&currStreakLabel=ff6b1a&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc&sideLabels=ffffff" />
 
@@ -81,11 +93,7 @@
 ## Latest Blog Posts <sub>(auto-synced from 0x1.now)</sub>
 
 <!-- BLOG-POST-LIST:START -->
-- [不再開 Plan Mode：常駐 Auto Mode 的另類 Zero Trust](https://0x1.now/tech/auto-mode-zero-trust-harness/) <sub><sup>Thu Sep 24 2026 12:00 AM</sup></sub>
-- [agent-harness：別用一個模型打天下的多 Agent sprint](https://0x1.now/tech/agent-harness-model-routing-sprint/) <sub><sup>Fri Jul 17 2026 12:00 AM</sup></sub>
-- [Etched 的推論晶片賭局：Sohu 只能跑一種模型](https://0x1.now/tech/etched-sohu-asic/) <sub><sup>Fri May 01 2026 12:00 AM</sup></sub>
-- [把部落格改造成 AI Agent 友善：Content Profile 100% 達成](https://0x1.now/tech/cloudflare-is-agent-ready/) <sub><sup>Thu Apr 23 2026 12:00 AM</sup></sub>
-- [Harness Engineering 的設計思路](https://0x1.now/tech/harness-engineering/) <sub><sup>Fri Apr 17 2026 12:00 AM</sup></sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 More at **[0x1.now](https://0x1.now)**
 

@@ -93,7 +93,11 @@ Install via the marketplace: `/plugin marketplace add bouob/claude-plugins`
 ## Latest Blog Posts <sub>(auto-synced from 0x1.now)</sub>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [不再開 Plan Mode：常駐 Auto Mode 的另類 Zero Trust](https://0x1.now/tech/auto-mode-zero-trust-harness/) <sub><sup>Thu Sep 24 2026 12:00 AM</sup></sub>
+- [agent-harness：別用一個模型打天下的多 Agent sprint](https://0x1.now/tech/agent-harness-model-routing-sprint/) <sub><sup>Fri Jul 17 2026 12:00 AM</sup></sub>
+- [Etched 的推論晶片賭局：Sohu 只能跑一種模型](https://0x1.now/tech/etched-sohu-asic/) <sub><sup>Fri May 01 2026 12:00 AM</sup></sub>
+- [把部落格改造成 AI Agent 友善：Content Profile 100% 達成](https://0x1.now/tech/cloudflare-is-agent-ready/) <sub><sup>Thu Apr 23 2026 12:00 AM</sup></sub>
+- [Harness Engineering 的設計思路](https://0x1.now/tech/harness-engineering/) <sub><sup>Fri Apr 17 2026 12:00 AM</sup></sub><!-- BLOG-POST-LIST:END -->
 
 More at **[0x1.now](https://0x1.now)**
 

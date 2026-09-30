@@ -22,26 +22,19 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/bouob/tickets_hunter">Tickets Hunter</a></h3>
       <p>Automated ticket-purchasing bot (獵票機器人), formerly tixcraft_bot.</p>
       <img src="https://img.shields.io/github/stars/bouob/tickets_hunter?style=flat-square&logo=github&labelColor=0a0a0a&color=FF6B1A" />
       <img src="https://img.shields.io/github/v/release/bouob/tickets_hunter?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /><br/>
       <code>Python · nodriver · ddddocr</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>Fintech Signals</h3>
+    <td width="33%" valign="top">
+      <h3><a href="https://signals.asobi.cc">Fintech Signals</a></h3>
       <p>End-of-day swing scanner — SMC + Squeeze with bilingual AI summaries.</p>
       <code>Astro 7 · React 19 · Python · Supabase · CF Workers</code>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>PostFlow</h3>
-      <p>Multi-platform social publishing — Threads / Instagram / Bluesky / Mastodon.</p>
-      <code>React 19 · Vite · Supabase Edge</code>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://0x1.now">0x1.now Blog</a></h3>
       <p>Personal tech blog — agent-ready (Markdown for Agents) on Cloudflare Workers.</p>
       <code>Astro 7 · MDX · CF Workers Static Assets</code>

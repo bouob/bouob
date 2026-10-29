@@ -12,9 +12,9 @@
 
 - **Role** — AI trainer & indie hacker
 - **Blog** — [0x1.now](https://0x1.now)
-- **Currently focused on** — Claude Code harness engineering, fintech signals, social automation
+- **Currently focused on** — Claude Code harness engineering, fintech signals, MCP servers
 - **Daily stack** — Astro 7 · React 19 · Supabase · Python · Cloudflare Workers
-- **Working on** — EOD swing-trading scanner, multi-platform social publishing & Claude Code plugins
+- **Working on** — EOD swing-trading scanner, Claude Code plugins & MCP servers
 
 ---
 
@@ -27,7 +27,7 @@
       <p>Automated ticket-purchasing bot (獵票機器人), formerly tixcraft_bot.</p>
       <img src="https://img.shields.io/github/stars/bouob/tickets_hunter?style=flat-square&logo=github&labelColor=0a0a0a&color=FF6B1A" />
       <img src="https://img.shields.io/github/v/release/bouob/tickets_hunter?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /><br/>
-      <code>Python · nodriver · ddddocr</code>
+      <code>Python · zendriver · ddddocr</code>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://signals.asobi.cc">Fintech Signals</a></h3>
@@ -56,6 +56,14 @@ Install via the marketplace: `/plugin marketplace add bouob/claude-plugins`
 | [gbrain-notion-sync](https://github.com/bouob/gbrain-notion-sync) | Sync a Notion second brain with a local gbrain knowledge graph | <img src="https://img.shields.io/github/v/release/bouob/gbrain-notion-sync?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
 | [repo-vet](https://github.com/bouob/repo-vet) | Static security vetting of third-party repos before you install them | <img src="https://img.shields.io/github/v/release/bouob/repo-vet?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
 | [sysadmin-skills](https://github.com/bouob/sysadmin-skills) | ITIL 4 IT-ops skills — incident response, change management, status comms | <img src="https://img.shields.io/github/v/release/bouob/sysadmin-skills?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
+
+---
+
+## MCP Servers
+
+| Server | What it does | Last commit |
+|--------|--------------|-------------|
+| [discord-mcp](https://github.com/bouob/discord-mcp) | Discord MCP server — Code Mode (search + execute over the REST API), 4-tool hybrid mode & agent skill | <img src="https://img.shields.io/github/last-commit/bouob/discord-mcp?style=flat-square&labelColor=0a0a0a&color=FF6B1A" /> |
 
 ---
 
@@ -101,7 +109,7 @@ More at **[0x1.now](https://0x1.now)**
 ### Find me
 
 <a href="https://0x1.now"><img src="https://img.shields.io/badge/Blog-0x1.now-FF6B1A?style=for-the-badge&logo=astro&logoColor=white&labelColor=0a0a0a" /></a>
-<a href="mailto:victor@0x1.now"><img src="https://img.shields.io/badge/Email-victor@0x1.now-FF6B1A?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0a0a0a" /></a>
+<a href="mailto:victor@0x1.now"><img src="https://img.shields.io/badge/Email-victor@0x1.now-FF6B1A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" /></a>
 
 <br/><br/>
 
